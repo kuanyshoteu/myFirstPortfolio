@@ -1,0 +1,23 @@
+
+body{
+    background-color: #3a7c91;
+    color: white;
+}
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 20px;
+    margin: 50px;
+}
+a{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.textcenter{
+    text-align: center;
+}
